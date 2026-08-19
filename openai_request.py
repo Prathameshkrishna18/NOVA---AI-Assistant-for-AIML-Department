@@ -1,7 +1,7 @@
 from openai import OpenAI
 import os
 
-client = OpenAI(api_key="sk-proj-C3MIA")
+client = OpenAI(api_key="")
 
 #def send_request(query):
 
